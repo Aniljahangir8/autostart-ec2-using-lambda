@@ -1,4 +1,4 @@
-# autostart-ec2-using-lambda
+# AutoStart-AutoStop-ec2-using-lambda
 Auto Start EC2 instance using AWS Lambda
 
 # First Step create a role and attach Ec2 Full Access
